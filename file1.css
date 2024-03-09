@@ -1,0 +1,65 @@
+body{
+    background:papayawhip url('./hinh-nen-meo-338x600.jpg') no-repeat;
+    height: 700px;
+    background-position: 50px 50px;
+    border: 2px solid gray;
+    border-radius: 50px 50px;
+}
+
+#p1{
+    color:black;
+    font-size: 50px;
+    font-weight: 10px;
+    text-align: center;
+    position: absolute;
+    left: 700px;
+    text-shadow: -5px -10px 50px red;
+}
+#p2{
+    height: 140px;
+    width: 300px;
+    color:black;
+    font-size: 20px;
+    font-weight: 10px;
+    position: absolute;
+    left: 500px;
+    top:120px;
+    border: 7px solid transparent;
+    border-image: url('./download.jfif') 10 stretch;
+    padding: 20px;
+    text-shadow: -5px 1px 10px pink;
+    line-height: 30px;
+}
+
+#p3{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 500px;
+    top:330px;
+    border: 7px solid transparent;
+    border-image: url('./download.jfif') 10 stretch;
+    padding: 20px;
+    font-size: 20px;
+    text-shadow: -5px 1px 10px pink;
+}
+
+#video1,#video2{
+    display: inline-block;
+    max-height: 200px;
+    max-width: 250px;
+}
+#p4{
+    height: 465px;
+    width: 400px;
+    position: absolute;
+    left: 940px;
+    top:120px;
+    border: 7px solid  transparent;
+    border-image: url('./download.jfif') 10 stretch;
+    padding: 20px;
+    font-size: 20px;
+    text-shadow: -5px 1px 10px pink;
+    line-height: 30px;
+    text-shadow: -5px 1px 10px pink;
+}
